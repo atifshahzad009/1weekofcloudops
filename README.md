@@ -1,5 +1,5 @@
 
-# _1stChallenge of 10WeeksofCloudOps project_
+# _1stChallenge
 
 # Hosting Static website
 
